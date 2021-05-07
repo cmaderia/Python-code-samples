@@ -1,7 +1,7 @@
 ################################################
 # DisplayNearestRiverResults
 #
-# Functions to accompany getNearestRiver.py.
+# Functions to accompany getNearestRiverResults.ipynb.
 #
 # Author: Chris Maderia (cmaderia@dewberry.com)
 #
