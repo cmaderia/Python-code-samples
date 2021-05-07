@@ -5,7 +5,7 @@ Display results for Get Distance to Nearest River (NEAR_FID and NEAR_DIST) for b
 or each state in a FEMA region
 
 Results include one bar chart per state showing the binned distance to nearest river (by ranges of miles or kilometers) and the number of structure points falling into each bin. Also included is a table showing basic statistics for that state (min, max, median, mean distance to nearest river).
-Both the chart and table are exported as a single PDF for each state using the pdfpages package.
+Both the chart and the table are exported as a single PDF for each state using the pdfpages package.
 
 ### Python version: 
 3.6
